@@ -58,6 +58,8 @@ namespace GameData
 
 		public System.Int32 stage;
 		public System.Single hp;
+		public System.Int32 bungCnt;
+		public System.Single addSpeed;
   
 
 #region fuctions

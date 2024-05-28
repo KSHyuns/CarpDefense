@@ -12,6 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80fea5b6b855af247a0103816ffff9d8, type: 3}
   m_Name: BungBBangResources
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   bungBBangSprites:
   - {fileID: 21300000, guid: c8339d752ee34f54b98753aaed6602b0, type: 3}
   - {fileID: 21300000, guid: 5861cbc859ead4a44b2770bef8feb42f, type: 3}
@@ -25,3 +34,37 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 07fdf27b190f9e943b4f2ec0e786c7be, type: 3}
   - {fileID: 21300000, guid: d59bc934ae4e88b4fa8566035fa5488a, type: 3}
   - {fileID: 21300000, guid: 8f7cfb323c03d664c9a80f0cbf3e98ac, type: 3}
+  bungBBangIconSprites:
+  - {fileID: -444159749154334621, guid: c9fc057ff383259449fa4297ba8fba22, type: 3}
+  - {fileID: -7515292357144208663, guid: 7504e29d76826784b8f8cec07dc1a025, type: 3}
+  - {fileID: 5693171383743866407, guid: 24dae40ae89a7d548bc231a9cb03b3ed, type: 3}
+  - {fileID: -7004740612040292984, guid: e81d9511ab9eb67459319434ffbcf1bb, type: 3}
+  - {fileID: 3223800267685564009, guid: 2aad76eebfb9a2b489c353de7a27f393, type: 3}
+  - {fileID: -2958223585236644105, guid: 1c4b4947590d554448e4252aaa0ef589, type: 3}
+  - {fileID: -94224054615875653, guid: 7979e91b9e74dd64a9ac223e98ae77d1, type: 3}
+  - {fileID: -9128773074633489438, guid: 0fa6b0d9cfd454b40a3c7e54ba363fc0, type: 3}
+  - {fileID: 7912303922422971191, guid: a17ae7accaa322443b6058417eff4a06, type: 3}
+  - {fileID: 3585151407713445446, guid: 45ee90432ae52f24588dcf284c64cdc2, type: 3}
+  - {fileID: -31874775058463938, guid: d7efae294efbf2a479ba62ccaab47d25, type: 3}
+  - {fileID: 1813815572679203581, guid: 95d6df6f3a667ac4f9b6aa3dbf160bcc, type: 3}
+  btnSelect: {fileID: 5293433437362855716, guid: fd4ace6850366fa4398709ab21925643, type: 3}
+  btnEmtpy: {fileID: 594664655456272608, guid: 6c0855862a385704195ad43bf96e7f77, type: 3}
+  enemyIdle: {fileID: 5519866657816137312, guid: c52f4ae0fe287664ab76c9c5e8e4fa69, type: 3}
+  enemyMove:
+  - {fileID: -4356537962567191745, guid: 7a683f6abbad15d4da1e146640d59fcc, type: 3}
+  - {fileID: 9066847011631584860, guid: e1b1b4003b966ac4ea6c4449bb044511, type: 3}
+  enemyDeath: {fileID: 6935475184022790108, guid: d21cdc68dfab74b40926c9062a0c6b16, type: 3}
+  selectIndexs:
+  - {fileID: -2011897474397033145, guid: afdd6cf8d8b54c043bc34da62a4d8941, type: 3}
+  - {fileID: 7210204752512672122, guid: 95b7125c3de2e564989f6f0e9b8c2a34, type: 3}
+  - {fileID: -9162483919938228196, guid: f7723705752adb841a8d61a00c6bdf33, type: 3}
+  - {fileID: 1225799089015331983, guid: 0e443b6a90e4ada498f7f81873911d87, type: 3}
+  - {fileID: 7802280911778844659, guid: 2cdf7f62cf4879a40a59c48d793f91f5, type: 3}
+  BGM_on: {fileID: 2815684821852412751, guid: e38880563e016c5488c90f1df99eea6e, type: 3}
+  BGM_off: {fileID: -2699287285403053457, guid: 1514ffe6c59fb7a4d9599ebb092a859f, type: 3}
+  ShopDefault: {fileID: 6052454998561169521, guid: 0f900e6dcdd379c4c8a25dd0b371fce8, type: 3}
+  ShopRoom: {fileID: -2977723363645815581, guid: 9b1782c793be92340b564c4c6a51181f, type: 3}
+  DrawDefault: {fileID: -3559283258734282735, guid: 31684f3e23d177948b5bc99fd419213a, type: 3}
+  DrawRoom: {fileID: 7923925892098055884, guid: 9a5509377accf684da1bcc077b9bc93b, type: 3}
+  SelectDefault: {fileID: 1626585204455946554, guid: 8e11026b908f5e04a8db32b99da123c6, type: 3}
+  SelectRoom: {fileID: -4746848124643085365, guid: c5d0b1aad56c64349b8d88e4c703ac64, type: 3}

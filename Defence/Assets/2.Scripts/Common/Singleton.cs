@@ -1,8 +1,9 @@
-﻿using System.Collections;
+﻿using Sirenix.OdinInspector;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Singleton<T> : MonoBehaviour where T :Component 
+public class Singleton<T> : SerializedMonoBehaviour where T :Component 
 {
     private static T instance;
 
@@ -36,7 +37,10 @@ public class Singleton<T> : MonoBehaviour where T :Component
         }
         else
         {
-            Destroy(gameObject);
+              if(instance != this) 
+                Destroy(gameObject);
+            
+         
         }
     }
 

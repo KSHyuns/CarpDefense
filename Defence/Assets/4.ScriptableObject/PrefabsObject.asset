@@ -12,7 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4117b81b38eb2c145b4f8f38889f090e, type: 3}
   m_Name: PrefabsObject
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   spownBlockPrefabs: {fileID: 1366673786622509876, guid: 78cfbb28190f9804f819cb4607a9dbfe, type: 3}
   enemyPrefabs: {fileID: 3525698997456127037, guid: 5a4cc17bfb28ac640a816e5426aa2832, type: 3}
   towerUnit: {fileID: -1373425654359347355, guid: 451fb112c4eaba645aa577bb51b6ea71, type: 3}
-  enemyHealthSliderPrefabs: {fileID: 0}
+  enemyHealthSliderPrefabs: {fileID: -483445739543910209, guid: 3c94adafb0168584baba35e2319fc006, type: 3}
+  bulletPrefabs: {fileID: 4733556031082345056, guid: 9c56425f19ef4e844839f678ee291617, type: 3}
+  IconPrefabs: {fileID: 7541825900956486603, guid: 4d8fabe59ecf82d49b124e30000e6b77, type: 3}
+  BungCardPrefabs: {fileID: 2340898625899846606, guid: 32b5d4dfaa9823e4f9a4d0953ac4132a, type: 3}
+  interectionBung: {fileID: 8895870940754460539, guid: 73f4fe848e33e2c4899f2967d835b01e, type: 3}
+  PlayingGoalTarget: {fileID: 21300000, guid: 9480a8f23ed49b049980eeb85c354c70, type: 3}
+  GameOverGoalTarget: {fileID: 21300000, guid: dd26502aa3932104a82ff1cd1607a9f8, type: 3}
